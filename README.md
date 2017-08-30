@@ -1,2 +1,1 @@
-# funnyJavascript
-Learning Full stack development
+'My Project' 
